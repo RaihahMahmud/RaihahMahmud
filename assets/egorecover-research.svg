@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="432" viewBox="0 0 1200 432" role="img" aria-labelledby="title desc">
+  <title id="title">EgoRecover-JEPA — research in progress</title>
+  <desc id="desc">A conceptual video-to-latent-feature illustration. Pilot verified: clean-video baseline. Scale-up evaluation pending. Robustness and latent recovery are planned; this diagram does not present results.</desc>
+  <defs>
+  </defs>
+  <rect x="0" y="0" width="1200" height="432" rx="20" fill="#10192e" stroke="none"/>
+  <rect x="0" y="0" width="8" height="432" rx="4" fill="#6edfc6" stroke="none"/>
+  <text x="42" y="43" fill="#75dfc7" font-family="Consolas, monospace" font-size="14" letter-spacing="1.5">RESEARCH IN PROGRESS</text>
+  <text x="40" y="99" fill="#f7f4ed" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" letter-spacing="-1">EgoRecover-JEPA</text>
+  <text x="42" y="140" fill="#b8b2ff" font-family="Arial, Helvetica, sans-serif" font-size="24" >Anticipation, under uncertainty.</text>
+  <text x="42" y="191" fill="#9daec9" font-family="Consolas, monospace" font-size="12" letter-spacing="1.5">THE QUESTION</text>
+  <text x="42" y="222" fill="#edf3ff" font-family="Arial, Helvetica, sans-serif" font-size="20" >Can useful action cues survive</text>
+  <text x="42" y="252" fill="#edf3ff" font-family="Arial, Helvetica, sans-serif" font-size="20" >blur and hand occlusion?</text>
+  <rect x="570" y="67" width="130" height="98" rx="8" fill="#1b2c43" stroke="#49647e"/>
+  <path d="M585 139L614 97L647 130L678 92" fill="none" stroke="#72cbb9" stroke-width="3" />
+  <rect x="633" y="82" width="130" height="98" rx="8" fill="#1b2c43" stroke="#49647e"/>
+  <path d="M648 154L677 112L710 145L741 107" fill="none" stroke="#72cbb9" stroke-width="3" />
+  <path d="M645 118H745M645 129H745M645 140H745" fill="none" stroke="#9cc6d0" stroke-width="5" opacity=".5"/>
+  <rect x="696" y="97" width="130" height="98" rx="8" fill="#1b2c43" stroke="#49647e"/>
+  <path d="M711 169L740 127L773 160L804 122" fill="none" stroke="#72cbb9" stroke-width="3" />
+  <rect x="748" y="115" width="65" height="73" rx="25" fill="#877ba8" stroke="none"/>
+  <path d="M842 132H886M875 124L886 132L875 140" fill="none" stroke="#9199b5" stroke-width="2" />
+  <rect x="910" y="91" width="20" height="20" rx="4" fill="#b8a5ff" stroke="none"/>
+  <rect x="910" y="119" width="20" height="20" rx="4" fill="#5ab6a5" stroke="none"/>
+  <rect x="910" y="147" width="20" height="20" rx="4" fill="#5ab6a5" stroke="none"/>
+  <rect x="938" y="91" width="20" height="20" rx="4" fill="#5ab6a5" stroke="none"/>
+  <rect x="938" y="119" width="20" height="20" rx="4" fill="#5ab6a5" stroke="none"/>
+  <rect x="938" y="147" width="20" height="20" rx="4" fill="#b8a5ff" stroke="none"/>
+  <rect x="966" y="91" width="20" height="20" rx="4" fill="#5ab6a5" stroke="none"/>
+  <rect x="966" y="119" width="20" height="20" rx="4" fill="#b8a5ff" stroke="none"/>
+  <rect x="966" y="147" width="20" height="20" rx="4" fill="#5ab6a5" stroke="none"/>
+  <rect x="994" y="91" width="20" height="20" rx="4" fill="#b8a5ff" stroke="none"/>
+  <rect x="994" y="119" width="20" height="20" rx="4" fill="#5ab6a5" stroke="none"/>
+  <rect x="994" y="147" width="20" height="20" rx="4" fill="#5ab6a5" stroke="none"/>
+  <text x="575" y="227" fill="#9daec9" font-family="Consolas, monospace" font-size="12" letter-spacing="1.5">OBSERVED FRAMES</text>
+  <text x="907" y="227" fill="#9daec9" font-family="Consolas, monospace" font-size="12" letter-spacing="1.5">LATENT FEATURES</text>
+  <text x="575" y="267" fill="#c0b1ef" font-family="Arial, Helvetica, sans-serif" font-size="17" >Planned: reliability → recovery → learned gate</text>
+  <path d="M42 300H1158" fill="none" stroke="#2d3a54" stroke-width="1.5" />
+  <circle cx="47" cy="341" r="4" fill="#6edfc6"/>
+  <text x="61" y="346" fill="#6edfc6" font-family="Consolas, monospace" font-size="12" letter-spacing="1.5">01 / PILOT VERIFIED</text>
+  <text x="42" y="382" fill="#e7edf7" font-family="Arial, Helvetica, sans-serif" font-size="19" >Clean-video baseline</text>
+  <circle cx="432" cy="341" r="4" fill="#c6b3ff"/>
+  <text x="446" y="346" fill="#c6b3ff" font-family="Consolas, monospace" font-size="12" letter-spacing="1.5">02 / EVALUATION PENDING</text>
+  <text x="427" y="382" fill="#e7edf7" font-family="Arial, Helvetica, sans-serif" font-size="19" >Scale-up workflow ready</text>
+  <circle cx="817" cy="341" r="4" fill="#a0aec6"/>
+  <text x="831" y="346" fill="#a0aec6" font-family="Consolas, monospace" font-size="12" letter-spacing="1.5">03 / PLANNED</text>
+  <text x="812" y="382" fill="#e7edf7" font-family="Arial, Helvetica, sans-serif" font-size="19" >Robustness &amp; recovery</text>
+  </svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="225" height="54" viewBox="0 0 225 54" role="img" aria-labelledby="title desc">
+  <title id="title">Explore projects →</title>
+  <desc id="desc">Navigation link button.</desc>
+  <defs>
+  </defs>
+  <rect x="1" y="1" width="223" height="52" rx="9" fill="#b7a8ff" stroke="none"/>
+  <text x="20" y="34" fill="#10182a" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Explore projects →</text>
+  </svg>

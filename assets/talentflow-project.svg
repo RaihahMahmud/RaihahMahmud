@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="286" viewBox="0 0 600 286" role="img" aria-labelledby="title desc">
+  <title id="title">TalentFlow — structured candidate matching</title>
+  <desc id="desc">An illustrated CV connects to a job requisition through an AI integration. Conceptual artwork, not a product screenshot or a validation result.</desc>
+  <defs>
+  </defs>
+  <rect x="0" y="0" width="600" height="286" rx="16" fill="#122a35" stroke="none"/>
+  <text x="30" y="35" fill="#84d9c7" font-family="Consolas, monospace" font-size="12" letter-spacing="1.5">APPLIED AI / FULL STACK</text>
+  <text x="28" y="89" fill="#f2f6ef" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" letter-spacing="-.8">Find the connection.</text>
+  <rect x="33" y="123" width="128" height="137" rx="10" fill="#e2ece6" stroke="none"/>
+  <circle cx="64" cy="151" r="12" fill="#4f928b"/>
+  <path d="M52 180H137M52 196H123M52 212H137M52 228H111" fill="none" stroke="#83a9a0" stroke-width="5" />
+  <rect x="431" y="123" width="136" height="137" rx="10" fill="#244652" stroke="#4a737b"/>
+  <text x="447" y="150" fill="#bce4d8" font-family="Consolas, monospace" font-size="12" letter-spacing="1.5">ROLE</text>
+  <path d="M447 176H549M447 192H530M447 208H549" fill="none" stroke="#72949b" stroke-width="5" />
+  <path d="M162 158C240 114 345 239 430 158" fill="none" stroke="#78d4c1" stroke-width="2" />
+  <path d="M162 188C240 166 345 197 430 188" fill="none" stroke="#ad9fe5" stroke-width="2" />
+  <path d="M162 218C240 218 345 155 430 218" fill="none" stroke="#78d4c1" stroke-width="2" />
+  <circle cx="294" cy="181" r="23" fill="#73cdbb"/>
+  <text x="281" y="188" fill="#133333" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">AI</text>
+  </svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">FlyRank — signals into decisions</title>
+  <desc id="desc">Conceptual artwork showing source pages, a grouped evaluation step and a human review queue. This illustration contains no measured performance results.</desc>
+  <defs>
+  </defs>
+  <rect x="0" y="0" width="1200" height="300" rx="18" fill="#e9f2f0" stroke="none"/>
+  <text x="42" y="40" fill="#245c58" font-family="Consolas, monospace" font-size="13" letter-spacing="1.5">APPLIED MACHINE LEARNING</text>
+  <text x="40" y="104" fill="#122d39" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" letter-spacing="-1.5">Signals into decisions.</text>
+  <text x="42" y="145" fill="#3f6269" font-family="Arial, Helvetica, sans-serif" font-size="22" >FlyRank · content opportunity scoring</text>
+  <rect x="44" y="204" width="310" height="52" rx="9" fill="#132c39" stroke="none"/>
+  <text x="62" y="237" fill="#d7f4e9" font-family="Arial, Helvetica, sans-serif" font-size="19" >Client-grouped evaluation</text>
+  <rect x="590" y="90" width="110" height="122" rx="8" fill="#fff" stroke="#b1ccc7"/>
+  <path d="M606 118H666M606 134H677M606 150H654" fill="none" stroke="#89a5a4" stroke-width="3" />
+  <rect x="637" y="76" width="110" height="122" rx="8" fill="#fff" stroke="#b1ccc7"/>
+  <path d="M653 104H713M653 120H724M653 136H701" fill="none" stroke="#89a5a4" stroke-width="3" />
+  <rect x="684" y="62" width="110" height="122" rx="8" fill="#fff" stroke="#b1ccc7"/>
+  <path d="M700 90H760M700 106H771M700 122H748" fill="none" stroke="#89a5a4" stroke-width="3" />
+  <path d="M806 148H859M848 139L859 148L848 157" fill="none" stroke="#275f61" stroke-width="3" />
+  <rect x="890" y="67" width="250" height="43" rx="7" fill="#286c66" stroke="none"/>
+  <text x="908" y="95" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="17" >Observe signals</text>
+  <rect x="890" y="124" width="250" height="43" rx="7" fill="#d2e5df" stroke="none"/>
+  <text x="908" y="152" fill="#28544f" font-family="Arial, Helvetica, sans-serif" font-size="17" >Compare with baseline</text>
+  <rect x="890" y="181" width="250" height="43" rx="7" fill="#d2e5df" stroke="none"/>
+  <text x="908" y="209" fill="#28544f" font-family="Arial, Helvetica, sans-serif" font-size="17" >Prioritize human review</text>
+  </svg>
