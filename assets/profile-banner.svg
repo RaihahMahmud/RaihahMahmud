@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Computational Field Notes — Raihan Mahmud</title>
+  <desc id="desc">Raihan Mahmud — machine learning, language, and software. A navy research notebook cover with warm off-white typography, a teal geometric graph, and scattered embedding-like points.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#24384b" stroke-width="0.6"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="380" rx="12" fill="#101f30"/>
+  <path d="M700 24H1176V356H700Z" fill="url(#grid)"/>
+  <path d="M36 36H76M36 36V76M1164 304V344H1124" fill="none" stroke="#658b8a" stroke-width="1"/>
+  <rect x="64" y="68" width="24" height="3" fill="#87bcb3"/>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="14" letter-spacing="1.8" fill="#b6c6cc">
+    <text x="104" y="75">COMPUTATIONAL FIELD NOTES</text>
+    <text x="64" y="322">LANGUAGE / LEARNING / SYSTEMS</text>
+  </g>
+  <text x="64" y="169" fill="#f3efe5" font-family="Georgia, 'Times New Roman', serif" font-size="64" letter-spacing="-1">Raihan Mahmud</text>
+  <text x="64" y="214" fill="#c2cdd0" font-family="Arial, Helvetica, sans-serif" font-size="22">Machine learning, language &amp; software.</text>
+  <path d="M64 251H600" stroke="#364b5d" stroke-width="1"/>
+  <text x="64" y="282" fill="#94bdb7" font-family="Consolas, 'Courier New', monospace" font-size="15">Observe. Model. Evaluate. Build.</text>
+  <!-- A conceptual graph, not a chart of measured results. -->
+  <g fill="none" stroke-linejoin="round">
+    <path d="M750 177L819 100L901 133L953 81L1052 119L1092 202L1030 269L931 293L852 244Z" stroke="#456866" stroke-width="1.2"/>
+    <path d="M750 177L852 244L901 133L1030 269L1052 119L931 293L819 100L852 244L1092 202L901 133L953 81" stroke="#68968f" stroke-width="1.1"/>
+    <path d="M750 177L901 133L931 293M819 100L1052 119M953 81L1030 269M852 244L1030 269" stroke="#3c555e" stroke-width="1"/>
+    <circle cx="934" cy="186" r="113" stroke="#344c5b" stroke-width="1" stroke-dasharray="3 7"/>
+  </g>
+  <g fill="#96c9bf" stroke="#101f30" stroke-width="4">
+    <circle cx="750" cy="177" r="6"/><circle cx="819" cy="100" r="6"/>
+    <circle cx="901" cy="133" r="9"/><circle cx="953" cy="81" r="6"/>
+    <circle cx="1052" cy="119" r="7"/><circle cx="1092" cy="202" r="6"/>
+    <circle cx="1030" cy="269" r="8"/><circle cx="931" cy="293" r="6"/>
+    <circle cx="852" cy="244" r="7"/>
+  </g>
+  <g fill="#7b929e">
+    <circle cx="779" cy="135" r="2"/><circle cx="791" cy="151" r="2"/><circle cx="803" cy="143" r="2"/>
+    <circle cx="974" cy="211" r="2"/><circle cx="987" cy="219" r="2"/><circle cx="966" cy="226" r="2"/>
+    <circle cx="999" cy="205" r="2"/><circle cx="978" cy="239" r="2"/>
+    <circle cx="1077" cy="157" r="2"/><circle cx="1087" cy="145" r="2"/><circle cx="1096" cy="162" r="2"/>
+  </g>
+  <g fill="#aac2c4" font-family="Consolas, 'Courier New', monospace" font-size="13">
+    <text x="1000" y="66">z ∈ Rᵈ</text>
+    <text x="1108" y="206">φ(x)</text>
+    <text x="750" y="323" font-size="11" letter-spacing="2">FIG. 01 / A FIELD OF CONNECTIONS</text>
+  </g>
+</svg>
